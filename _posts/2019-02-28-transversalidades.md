@@ -2,8 +2,8 @@
 layout: post
 title:  "Transversalidades "
 date:   2019-02-28
-keywords: "governos subnationais,municípios,relações internacionais"
-categories: [Book Chapters]
+tags: "governos subnationais,municípios,relações internacionais"
+categories: [Book-chapters]
 icon: icon-html
 ---
 
