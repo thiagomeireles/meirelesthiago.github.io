@@ -2,7 +2,7 @@
 layout: post
 title:  "Book Chapters 2018"
 date:   2019-02-28
-tags: "governos subnationais,municípios,relações internacionais"
+tags: "governos-subnationais, municípios, relações-internacionais"
 categories: [Book-chapters]
 icon: icon-html
 ---
