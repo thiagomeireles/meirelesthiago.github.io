@@ -31,6 +31,13 @@
   page: blog/
   css: testimonials navy-section
 
+- id: research
+  i18n: nav.research
+  name: My Research
+  tpl: research.html
+  page: research/
+  css: testimonials navy-section
+
 - id: links
   i18n: nav.link
   name: Links
