@@ -1,6 +1,6 @@
 # blog page sections
 - name: My Research
-  href: /blog/
+  href: /research/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: Peer-Reviewed Articles
