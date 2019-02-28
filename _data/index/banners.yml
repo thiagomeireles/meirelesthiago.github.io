@@ -6,13 +6,13 @@
   title: first banner image
  
 - src: landing/header_three.jpg
-title: third banner image
+  title: second banner image
 
 - src: landing/header_four.jpg
-title: fourth banner image
+  title: third banner image
 
 - src: landing/header_five.jpg
-title: fifth banner image
+  title: fourth banner image
 
 - src: landing/header_six.jpg
-title: sixth banner image
+  title: fifth banner image
