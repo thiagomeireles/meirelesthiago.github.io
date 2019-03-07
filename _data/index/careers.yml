@@ -2,10 +2,27 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: University of São Paulo
-    i18n: usp
+    i18n: usp2
+  desc:
+    detail: PhD Candidate, Department of Political Science
+    i18n: company_a_desc
+  date:
+    detail: Since Jan. 2017
+    i18n: company_a_date
+  job:
+    detail: Research about What leads to a Subnational Foreign Policy
+            Teaching assistant in "Quantitative Methods and Techniques in Political Science" (Graduate and undergraduate)
+            Teaching Assistant in "Introduction to Programming and Computational Tools for the Social Sciences" (Graduate and undergraduate)
+            Teaching Assistant in "Urbanization, Development and Environment"
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: University of São Paulo
+    i18n: usp1
   desc:
     detail: PhD Candidate
-    i18n: Political Science Department
+    i18n: company_c_desc
   date:
     detail: Feb. 2017
     i18n: company_a_date
@@ -15,15 +32,15 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: São Paulo State University
+    i18n: unesp
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: B.A. Degree in International Relations
+    i18n: company_c_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Jan. 2012
+    i18n: company_c_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: B.A. Degree in International Relations
+    i18n: company_c_job
   icon: fa-plus-square
