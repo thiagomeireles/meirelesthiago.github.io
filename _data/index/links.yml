@@ -1,9 +1,9 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: Political Science Department,
+  first_name: University of São Paulo
+  desc: DCP-USP
+  website: http://dcp.fflch.usp.br/
+  email: ppg.cp@usp.br
 
 - last_name: Donate
   first_name: Jalpc
@@ -11,8 +11,8 @@
   website: http://www.jarrekk.com/donate/
   email: me@jarrekk.com
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Us
+  first_name: Contact
+  desc: Contact Us
+  website: http://www.thiagomeireles.com
+  email: contact@thiagomeireles.com
