@@ -10,7 +10,7 @@
     detail: Since Jan. 2017
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Research project about What leads to a Subnational Foreign Policy with National Council for Scientific and Technological Development (CNPq) fellowship | Teaching assistant in ``Quantitative Methods and Techniques in Political Science`` (Graduate and undergraduate) | Teaching assistant in ``Introduction to Programming and Computational Tools for the Social Sciences``(Graduate and undergraduate) | Teaching assistant in ``Urbanization, Development and Environment`` (Undergraduate)
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -24,20 +24,20 @@
     detail: 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Research project about the effects of changing the federal policy for subnational international activities with Coordination of Superior Level Staff Improvement (CAPES) fellowship | Teaching assistant in ``Quantitative Methods and Techniques in Political Science`` (Graduate and undergraduate) | Teaching assistant in ``What is representation?`` (Undergraduate).
     i18n: company_b_job
   icon: fa-plus-square
   
-  - name:
-    detail: B.A. in International Relations
-    i18n: bachelor
-  desc:
-    detail: São Paulo State University, Department of Political and Economic Sciences
-    i18n: company_c_desc
-  date:
-    detail: 2012
-    i18n: company_c_date
-  job:
-    detail: Full Stack Developer
-    i18n: company_c_job
-  icon: fa-plus-square
+  #- name:
+  #  detail: B.A. in International Relations
+  #  i18n: bachelor
+  #desc:
+  #  detail: São Paulo State University, Department of Political and Economic Sciences
+  #  i18n: company_c_desc
+  #date:
+  #  detail: 2012
+  #  i18n: company_c_date
+  #job:
+  #  detail: Full Stack Developer
+  #  i18n: company_c_job
+  #icon: fa-plus-square
