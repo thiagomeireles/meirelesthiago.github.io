@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username: thiago.meireles.5 # Leave blank if you don't have now
   twitter_username: thiago_meireles  # Leave blank if you don't have now
   email: thiagomeireles@usp.br  # Leave blank if you don't have now
-  cv: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4433053P4 # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://www.dropbox.com/s/0dfbigmcd0s7qi0/Meireles_CV_Pub_Mar_19.pdf?dl=0 # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
