@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: PhD Candidate 
+    detail: PhD Candidate, Department of Political Science, University of São Paulo
     i18n: phd
   desc:
-    detail: Department of Political Science, University of São Paulo
+    detail: 
     i18n: company_a_desc
   date:
     detail: Since Jan. 2017
@@ -15,10 +15,10 @@
   icon: fa-plus-square
 
 - name:
-    detail: M.A. in Political Science
+    detail: M.A. in Political Science, Department of Political Science, University of São Paulo
     i18n: masters
   desc:
-    detail: Department of Political Science, University of São Paulo
+    detail: 
     i18n: company_b_desc
   date:
     detail: 2016
