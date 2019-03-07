@@ -1,6 +1,34 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: PhD Candidate in Political Science, University of São Paulo
+    i18n: 
+  desc:
+    detail: I am developing a research about what leads to a subnational foreign policy. Teaching assistant experiences in “Quantitative Methods and Techniques in Political Science” (Graduate and undergraduate), “Introduction to Programming and Computational Tools for the Social Sciences” (Graduate) and “Urbanization, Development and Environment” (Undergraduate).
+    i18n: 
+  date:
+    detail: Since Jan. 2017
+    i18n: 
+  job:
+    detail: National Council for Scientific and Technological Development (CNPq) Fellowship
+    i18n: 
+  icon: fa-plus-square
+
+- name:
+    detail: M.A. in Political Science, University of São Paulo
+    i18n: 
+  desc:
+    detail: I developed a research about the effects of federal policy changes for subnational international activities. Teaching assistant experiences in “Quantitative Methods and Techniques in Political Science” (Graduate and undergraduate), and “What is representation?” (Undergraduate).
+    i18n: 
+  date:
+    detail: 2016
+    i18n: 
+  job:
+    detail: Coordination of Superior Level Staff Improvement (CAPES) Fellowship
+    i18n: 
+  icon: fa-plus-square
+
+- name:
     detail: Nextcode
     i18n: 
   desc:
@@ -56,31 +84,5 @@
     i18n: 
   icon: fa-plus-square
 
-- name:
-    detail: PhD Candidate in Political Science, University of São Paulo
-    i18n: 
-  desc:
-    detail: I am developing a research about what leads to a subnational foreign policy. Teaching assistant experiences in “Quantitative Methods and Techniques in Political Science” (Graduate and undergraduate), “Introduction to Programming and Computational Tools for the Social Sciences” (Graduate) and “Urbanization, Development and Environment” (Undergraduate).
-    i18n: 
-  date:
-    detail: Since Jan. 2017
-    i18n: 
-  job:
-    detail: National Council for Scientific and Technological Development (CNPq) Fellowship
-    i18n: 
-  icon: fa-plus-square
 
-- name:
-    detail: M.A. in Political Science, University of São Paulo
-    i18n: 
-  desc:
-    detail: I developed a research about the effects of federal policy changes for subnational international activities. Teaching assistant experiences in “Quantitative Methods and Techniques in Political Science” (Graduate and undergraduate), and “What is representation?” (Undergraduate).
-    i18n: 
-  date:
-    detail: 2016
-    i18n: 
-  job:
-    detail: Coordination of Superior Level Staff Improvement (CAPES) Fellowship
-    i18n: 
-  icon: fa-plus-square
   
