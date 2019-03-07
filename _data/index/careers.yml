@@ -1,3 +1,61 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Nextcode
+    i18n: 
+  desc:
+    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
+    i18n: 
+  date:
+    detail: Apr. 2016
+    i18n: 
+  job:
+    detail: Python Developer
+    i18n: 
+  icon: fa-plus-square
+
+- name:
+    detail: Graduation
+    i18n: 
+  desc:
+    detail: At July 2013,I graduated from college and started my IT technology tour.
+    i18n: 
+  date:
+    detail: Jul. 2013
+    i18n: 
+  job:
+    detail: Student
+    i18n: 
+  icon: fa-book
+
+- name:
+    detail: Netease Game
+    i18n: 
+  desc:
+    detail: In Netease game, I learned game service system and use Python code for ops.
+    i18n: 
+  date:
+    detail: Jun. 2015
+    i18n: 
+  job:
+    detail: Dev Ops
+    i18n: 
+  icon: fa-plus-square
+
+- name:
+    detail: takip
+    i18n: 
+  desc:
+    detail: In Takip Yazılım, I met C# and ASP.NET
+    i18n: 
+  date:
+    detail: Jun. 2010
+    i18n: 
+  job:
+    detail: Intern
+    i18n: 
+  icon: fa-plus-square
+
 - name:
     detail: PhD Candidate in Political Science, University of São Paulo
     i18n: 
