@@ -27,3 +27,17 @@
     detail: Full Stack Developer
     i18n: company_b_job
   icon: fa-plus-square
+  
+  - name:
+    detail: B.A. in International Relations
+    i18n: bachelor
+  desc:
+    detail: São Paulo State University, Department of Political and Economic Sciences
+    i18n: company_c_desc
+  date:
+    detail: 2012
+    i18n: company_c_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_c_job
+  icon: fa-plus-square
