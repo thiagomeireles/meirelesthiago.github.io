@@ -8,11 +8,11 @@
 - src: landing/header_three.jpg
   title: second banner image
 
-- src: landing/header_four.jpg
-  title: third banner image
+#- src: landing/header_four.jpg
+  #title: third banner image
 
-- src: landing/header_five.jpg
-  title: fourth banner image
+#- src: landing/header_five.jpg
+ # title: fourth banner image
 
-- src: landing/header_six.jpg
-  title: fifth banner image
+#- src: landing/header_six.jpg
+ # title: fifth banner image
