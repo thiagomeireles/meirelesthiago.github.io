@@ -7,4 +7,4 @@ categories: [Codes]
 icon: icon-html
 ---
 
-Material course is avaiable at [GitHub](https://github.com/leobarone/cebrap_lab_programacao_r/blob/master/README_20180416.md) with free access.
+Material course is avaiable at [GitHub](https://github.com/thiagomeireles/cebrap_lab_programacao_r) with free access.
