@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: R, Stata, LaTeX, GitHub, Markdown
-percentage: 90, 75, 85, 70, 90
+aspects: R, Stata, LaTeX, GitHub, Markdown, Teaching
+percentage: 85, 70, 80, 70, 85, 75
