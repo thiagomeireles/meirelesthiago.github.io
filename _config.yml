@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I'm a PhD Candidate in Political Science at University of São Paulo. My research object is the internationalization processes of subnational governments in a comparative perspective, specifically on what leads them to develop these activiites. My research interests also include distributive conflicts and their impacts on inequality, as well as methodologies for causal inference. I have a master's degree in Political Science from the University of São Paulo (2016) and a bachelor's degree in International Relations from São Paulo State University (2012).  # Describe yourself.
+  desc: I'm a PhD Candidate in Political Science at University of São Paulo. My research deals with the impacts of artificial intelligence on the labor market and income inequality. I used to research about internationalization processes of subnational governments in a comparative perspective. My research interests also include distributive conflicts and their impacts on inequality, as well as methodologies for causal inference. I have a master's degree in Political Science from the University of São Paulo (2016) and a bachelor's degree in International Relations from São Paulo State University (2012).  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
